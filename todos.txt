@@ -1,0 +1,3 @@
+studying css
+studying js
+studying python
